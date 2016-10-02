@@ -13,6 +13,7 @@ module.exports = {
     maximo: { type: 'integer' },
     orden: { type: 'integer' },
     minimo: { type: 'integer' },
+    codigo: { type: 'integer' },
   }
 };
 
