@@ -8,16 +8,16 @@
 module.exports = {
 
   attributes: {
-    precio: { type: 'float' },
-    codigo: { type: 'integer' },
-    nombre: { type: 'string' },
-    id_grupo_menu: { type: 'integer' },
-    id_categoria_menu: { type: 'integer' },
-    is_inactivo: { type: 'boolean' },
-    is_descontable: { type: 'boolean' },
-    is_etiqueta: { type: 'boolean' },
-    ordenamiento: { type: 'integer' },
-    max_partes: { type: 'integer' },
+    precio: {type: 'float'},
+    codigo: {type: 'integer'},
+    nombre: {type: 'string'},
+    id_grupo_menu: {type: 'integer'},
+    id_categoria_menu: {type: 'integer'},
+    is_inactivo: {type: 'boolean'},
+    is_descontable: {type: 'boolean'},
+    is_etiqueta: {type: 'boolean'},
+    ordenamiento: {type: 'integer'},
+    max_partes: {type: 'integer'}
   }
 };
 

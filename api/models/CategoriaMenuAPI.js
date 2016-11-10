@@ -12,4 +12,3 @@ module.exports = {
     is_inactivo: { type: 'boolean' },
   }
 };
-
