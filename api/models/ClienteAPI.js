@@ -10,6 +10,7 @@ module.exports = {
   attributes: {
     telefono: { type: 'integer' },
     cedula: { type: 'integer' },
+    id_ciudad: { type: 'integer' },
     nombre: { type: 'string' },
   }
 };
