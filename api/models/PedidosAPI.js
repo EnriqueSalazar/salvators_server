@@ -9,9 +9,9 @@ module.exports = {
 
   attributes: {
     id: {
-     type: 'integer',
-     unique: true,
-     primaryKey: true
+      type: 'integer',
+      unique: true,
+      primaryKey: true
     },
     fecha: {
       type: 'datetime'
@@ -44,6 +44,9 @@ module.exports = {
       type: 'datetime'
     },
     h_domiciliario: {
+      type: 'datetime'
+    },
+    h_entregado: {
       type: 'datetime'
     },
     id_forma_pago: {

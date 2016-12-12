@@ -8,7 +8,9 @@
 module.exports = {
 
   attributes: {
-    nombre: { type: 'string' },
+    nombre: {type: 'string'},
+    color: {type: 'string'},
+    style: {type: 'string'},
   }
 };
 
