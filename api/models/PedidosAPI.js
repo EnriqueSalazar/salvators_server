@@ -67,6 +67,9 @@ module.exports = {
     },
     id_restaurante: {
       type: 'integer'
+    },
+    items:{
+      type: 'text'
     }
   }
 };
