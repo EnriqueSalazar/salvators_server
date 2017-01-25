@@ -11,7 +11,8 @@ module.exports = {
     id: {
       type: 'integer',
       unique: true,
-      primaryKey: true
+      primaryKey: true,
+      autoIncrement: true
     },
     fecha: {
       type: 'datetime'
