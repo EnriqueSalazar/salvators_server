@@ -73,6 +73,18 @@ module.exports = {
     },
     is_pickup:{
       type: 'boolean'
-    }
+    },
+    valor_domilicio: {
+      type: 'integer'
+    },
+    valor_impuesto: {
+      type: 'integer'
+    },
+    valor_descuento: {
+      type: 'integer'
+    },
+    valor_total: {
+      type: 'integer'
+    },
   }
 };
