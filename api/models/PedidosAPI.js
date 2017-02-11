@@ -70,6 +70,9 @@ module.exports = {
     },
     items:{
       type: 'text'
+    },
+    is_pickup:{
+      type: 'boolean'
     }
   }
 };
