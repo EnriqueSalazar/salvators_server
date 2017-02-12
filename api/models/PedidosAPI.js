@@ -74,7 +74,7 @@ module.exports = {
     is_pickup:{
       type: 'boolean'
     },
-    valor_domilicio: {
+    valor_domicilio: {
       type: 'integer'
     },
     valor_impuesto: {

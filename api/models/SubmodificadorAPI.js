@@ -11,8 +11,6 @@ module.exports = {
     nombre: { type: 'string' },
     is_inactivo: { type: 'boolean' },
     codigo: { type: 'integer' },
-    maximo: { type: 'integer' },
-    minimo: { type: 'integer' },
     orden: { type: 'integer' },
     precio: { type: 'float' },
     is_adicional: { type: 'boolean' },

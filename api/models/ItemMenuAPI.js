@@ -17,7 +17,9 @@ module.exports = {
     is_descontable: {type: 'boolean'},
     is_etiqueta: {type: 'boolean'},
     ordenamiento: {type: 'integer'},
-    max_partes: {type: 'integer'}
+    max_partes: {type: 'integer'},
+    max_mod: {type: 'integer'},
+    min_mod: {type: 'integer'}
   }
 };
 

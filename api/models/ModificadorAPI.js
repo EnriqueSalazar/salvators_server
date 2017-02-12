@@ -14,6 +14,7 @@ module.exports = {
     orden: { type: 'integer' },
     minimo: { type: 'integer' },
     codigo: { type: 'integer' },
+    precio: { type: 'float' },
   }
 };
 
