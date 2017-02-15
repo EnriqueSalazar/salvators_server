@@ -9,9 +9,9 @@ module.exports = {
 
   attributes: {
     direccion: { type: 'string' },
-    x: { type: 'float' },
+    lat: { type: 'float' },
     id_cliente: { type: 'integer' },
-    y: { type: 'float' },
+    lng: { type: 'float' },
     interno: {type: 'string'},
   }
 };
