@@ -12,6 +12,7 @@ module.exports = {
     x: { type: 'float' },
     id_cliente: { type: 'integer' },
     y: { type: 'float' },
+    interno: {type: 'string'},
   }
 };
 
